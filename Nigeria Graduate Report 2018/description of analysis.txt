@@ -1,0 +1,12 @@
+https://www.kaggle.com/datasets/stutern/nigerian-gradaute-report-2018
+
+
+A total of 5,219 Nigerian graduates completed the survey.
+These graduates completed their degree within the last 5 years (2013 - 2017).
+The survey was live from February 8 through May 15, 2018.
+The survey was hosted using Google Forms and Stutern recruited respondents via email and social media sites.
+To account for graduates in marginalized locations, tracking officers from BudgITCo conducted the offline version in 5 states (Edo, Enugu, Ibadan, Imo and Kaduna State).
+We removed about 600 responses that were incomplete from the offline version of the survey before we arrived at 5,219 total responses.
+Not every question was shown to every respondent, as some questions were specifically for those who are employed or other cases as it may be.
+Acknowledgements
+We appreciate the partnership of companies like BudgIT, Jobberman, CoCreation Hub, Capital Square, Leap Africa, Leadspace, Seed Space Lagos, Fate Foundation, PushCV, Poise Nigeria, The Guardian, EduBridge Academy, Redhalia, TechCity, KraksTV and several churches and alumni associations that helped us to carry out this survey.
